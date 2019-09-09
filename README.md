@@ -11,6 +11,10 @@ The following sections outline how to work with packaging a Sugar instance.
 ## Supported Databases
 * MySQL
 
+## Dependencies
+- PHP 5.4.2+
+- Composer - https://getcomposer.org/download/ 
+
 ## Installation
 ```
 git clone https://github.com/sugarcrm/Support-Helpers-Packager
